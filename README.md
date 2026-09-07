@@ -111,8 +111,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maidawaseem80-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidawaseem80-hub&layout=compact&theme=radical&hide_border=true" width="46%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=maidawaseem80-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maidawaseem80-hub&layout=compact&theme=radical&hide_border=true" width="46%" alt="Top Languages" />
 </p>
 
 <p align="center">
