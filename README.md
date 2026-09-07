@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maida Waseem 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BS+Computer+Science+Student;MERN+Stack+Developer;Building+responsive%2C+user-centric+web+apps;Always+learning+something+new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=BS+Computer+Science+Student;MERN+Stack+Developer;Building+responsive+web+apps;Always+learning+something+new&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </p>
 
 <p align="center">
